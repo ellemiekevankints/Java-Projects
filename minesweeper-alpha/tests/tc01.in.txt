@@ -1,4 +1,0 @@
-reveal 4 4
-nofog
-help
-q
